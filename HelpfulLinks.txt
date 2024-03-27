@@ -1,0 +1,15 @@
+MOGO DB CRUD: https://zellwk.com/blog/crud-express-mongodb/
+CREATE VITE APP POST-CSS ERROR: https://tailwindcss.com/docs/guides/vite
+DARK MODE: https://github.com/CodeCompleteYT/react-dark-mode
+SUN + MOON IN TOGGLE: https://www.youtube.com/watch?v=xodD0nw2veQ
+SNACKBAR INSPO: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_snackbar
+REMOVE GREENSCREEN FROM BUBBLE VID: https://www.youtube.com/watch?v=NousxgBDIr4
+Chroma-Keying: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas
+
+
+ART DECO BUTTON: https://codepen.io/mr-tamagotchi/pen/yzRQba
+Gausip Lite
+[ ] LinkTree Inspired Element
+[ ] WHAT YOU SEE IS WHAT YOU GET
+[ ] Rate Limiting / Debounce
+
